@@ -16,4 +16,5 @@
     <string name="done">Done</string>
     <string name="yellow_star">Yellow star</string>
     <string name="name">Aleks Haecky</string>
+    <string name="nickname_hint">What is your Nickname?"</string>
 </resources>
